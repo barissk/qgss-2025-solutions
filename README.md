@@ -1,3 +1,6 @@
+These are my solutions for the Qiskit Global Summer School 2025 labs.  
+Just sharing in case it helps anyone else following along.
+
 # qgss-2025
 Qiskit Global Summer School: The Past, Present and Future of Quantum Computing
 
